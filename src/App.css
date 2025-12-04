@@ -119,3 +119,14 @@ main p {
   margin-top: 40px;
   color: #e50914;
 }
+
+.movie-details{
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #141414;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  color: #ffffff;
+}
