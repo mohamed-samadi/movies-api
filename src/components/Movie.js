@@ -28,7 +28,6 @@ function MovieDetails() {
         <p><strong>Genre:</strong> {movieDetails.Genre}</p>
         <p><strong>Director:</strong> {movieDetails.Director}</p>
         <p><strong>Plot:</strong> {movieDetails.Plot}</p>
-        
     </div>) 
       : (<p>Loading...</p>)}
     </div>
@@ -36,3 +35,5 @@ function MovieDetails() {
 }
 
 export default MovieDetails
+
+
